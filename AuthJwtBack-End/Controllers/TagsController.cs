@@ -9,7 +9,7 @@ using AuthJwt.Models.AnothersEntity;
 
 namespace AuthJwt.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class TagsController : ControllerBase
     {

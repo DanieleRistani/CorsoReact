@@ -9,7 +9,7 @@ using AuthJwt.Models.AnothersEntity;
 
 namespace AuthJwt.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class FilmsController : ControllerBase
     {
@@ -24,14 +24,14 @@ namespace AuthJwt.Controllers
         [HttpGet("Index")]
         public async Task<ActionResult<IEnumerable<Film>>> GetFilms()
         {
-            return await _context.Films.ToListAsync();
+            return await _context.Films.Include(f => f.Category).Include(f => f.Tags).ToListAsync();
         }
 
         // GET: api/Films/5
         [HttpGet("Details/{id}")]
         public async Task<ActionResult<Film>> GetFilm(int id)
         {
-            var film = await _context.Films.FindAsync(id);
+            var film = await _context.Films.Include(f => f.Category).Include(f => f.Tags).FirstOrDefaultAsync(f => f.Id == id);
 
             if (film == null)
             {

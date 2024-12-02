@@ -24,14 +24,14 @@ namespace AuthJwt.Controllers
         [HttpGet("Index")]
         public async Task<ActionResult<IEnumerable<Category>>> GetCategories()
         {
-            return await _context.Categories.ToListAsync();
+            return await _context.Categories.Include(c => c.Films).ToListAsync();
         }
 
         // GET: api/Categories/5
         [HttpGet("Details/{id}")]
         public async Task<ActionResult<Category>> GetCategory(int id)
         {
-            var category = await _context.Categories.FindAsync(id);
+            var category = await _context.Categories.Include(c => c.Films).FirstOrDefaultAsync(c => c.Id == id);
 
             if (category == null)
             {
