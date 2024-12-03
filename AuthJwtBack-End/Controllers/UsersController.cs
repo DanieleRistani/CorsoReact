@@ -71,7 +71,18 @@ namespace AuthJwt.Controllers
             return CreatedAtAction("GetUser", new { id = user.UserId }, user);
         }
 
-      
+        [HttpGet("AuthUser/{emailAddress}")]
+        public async Task<ActionResult<User>> GetUser(string emailAddress)
+        {
+            var user = await _context.Users.FirstOrDefaultAsync(x => x.EmailAddress.Equals(emailAddress));
+
+            if (user == null)
+            {
+                return NotFound();
+            }
+
+            return user;
+        }
 
         private bool UserExists(int id)
         {

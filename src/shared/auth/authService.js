@@ -1,5 +1,5 @@
 
-import React, { useState } from 'react';
+
 
 
 function runLogin(credentials) {
@@ -14,6 +14,10 @@ function runRegister(user) {
 
 function logout() {
     localStorage.removeItem("token");
-    window.location.reload();
+    window.location.replace("/");
 }
-export {runLogin, runRegister, logout};
+
+function getAuthUser(email) {
+    return fetch(`https://localhost:7233/Users/AuthUser/${email}`);
+}
+export {runLogin, runRegister, logout, getAuthUser};

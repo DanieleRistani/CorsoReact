@@ -2,12 +2,22 @@ import { Link } from "react-router-dom";
 import React from "react";
 import { jwtDecode } from "jwt-decode";
 import { logout } from "../shared/auth/authService";
+import { useEffect } from "react";
 
 function navbar() {
   const isAuthenticated = localStorage.getItem("token") ? true : false;
   const user = isAuthenticated ? jwtDecode(localStorage.getItem("token")) : null;
-  console.log(user);
   
+  useEffect(() => {
+    const token = localStorage.getItem("token");
+    if (token) {
+      const decodedToken = jwtDecode(token);
+      if (decodedToken.exp * 1000 < Date.now()) {
+        logout();
+      }
+    }
+  }, [location]);
+
   return (
     <nav class="navbar navbar-expand-lg bg-body-dark">
       <div class="container-fluid">
@@ -33,16 +43,18 @@ function navbar() {
               </Link>
             </li>
             <li class="nav-item">
-              <Link className="nav-link" to="/header">
-                Header
+              <Link className="nav-link" to="/categories">
+                Categories
               </Link>
             </li>
+          
           </ul>
           <ul class="navbar-nav ms-auto ">
             <li className="nav-item">
 
               {isAuthenticated ? (
-                <span class="nav-link">{user.unique_name}<button className="btn btn-dark ms-2 text-white" onClick={logout}>Logout</button></span>
+               
+              <span class="nav-link d-flex align-items-center"> <Link className="nav-link" to="/userProfile">{user.unique_name}</Link><button className="btn btn-dark ms-2 text-white" onClick={logout}>Logout</button></span>
               ): 
               (
                 <Link className="nav-link" to="/loginRegister">

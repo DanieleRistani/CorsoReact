@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import React, { useRef} from "react";
 import AuthService, { runLogin, runRegister } from "./authService";
 function LoginRegister() {
   const containerRef = useRef(null);
@@ -28,6 +28,7 @@ function LoginRegister() {
   }
 
   function doLogin() {
+    
     runLogin({
       email: emailRef.current.value,
       password: passwordRef.current.value,
@@ -41,7 +42,8 @@ function LoginRegister() {
       })
       .then((data) => {
         localStorage.setItem("token", data.token);
-        window.location.reload();
+        window.location.replace("/");
+        
 
       })
       .catch((error) => {
@@ -70,7 +72,9 @@ function LoginRegister() {
       })
       .then((data) => {
         console.log(data);
-        window.location.reload();
+        window.location.replace("/");
+        
+         
       })
       .catch((error) => {
         console.log(error);

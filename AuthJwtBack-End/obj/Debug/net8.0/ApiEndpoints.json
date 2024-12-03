@@ -219,6 +219,32 @@
   {
     "ContainingType": "AuthJwt.Controllers.UsersController",
     "Method": "GetUser",
+    "RelativePath": "Users/AuthUser/{emailAddress}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emailAddress",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AuthJwt.Models.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AuthJwt.Controllers.UsersController",
+    "Method": "GetUser",
     "RelativePath": "Users/Details/{id}",
     "HttpMethod": "GET",
     "IsController": true,
