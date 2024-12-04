@@ -100,8 +100,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "film",
-        "Type": "AuthJwt.Models.AnothersEntity.Film",
+        "Name": "filmDto",
+        "Type": "AuthJwt.Models.AnothersEntity.FilmDto",
         "IsRequired": true
       }
     ],

@@ -1,7 +1,9 @@
 
-
-async function getFilms() {
-    return await fetch("https://localhost:7233/Films/Index");
+function getFilms() {
+    return fetch("https://localhost:7233/Films/Index");
+}
+function getFilmById(id){
+ return fetch("https://localhost:7233/Films/Details/"+id)
 }
 function deleteFilm(id) {
     return fetch("https://localhost:7233/Films/Delete/" + id, {
@@ -20,4 +22,4 @@ function addFilmPost(film) {
         body: JSON.stringify(film)
     })
 }
-export {getFilms, deleteFilm, getCategoriesForSelect,addFilmPost};
+export {getFilms, deleteFilm, getCategoriesForSelect,addFilmPost,getFilmById};

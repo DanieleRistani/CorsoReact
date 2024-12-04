@@ -75,8 +75,17 @@ namespace AuthJwt.Controllers
         // POST: api/Films
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<Film>> PostFilm(Film film)
+        public async Task<ActionResult<Film>> PostFilm(FilmDto filmDto)
         {
+            var film = new Film()
+            {
+                Name= filmDto.Name,
+                Description= filmDto.Description,
+                Year= filmDto.Year,
+                CategoryId= filmDto.CategoryId,
+                Category=_context.Categories.Find(filmDto.CategoryId)
+
+            };
             _context.Films.Add(film);
             await _context.SaveChangesAsync();
 

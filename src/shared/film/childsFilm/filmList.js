@@ -1,6 +1,6 @@
 import { useEffect ,useState} from "react";
 import FilmService,{getFilms,deleteFilm} from "../filmService";
-
+import { Link } from "react-router-dom";
 
 
 function filmList() {
@@ -65,7 +65,7 @@ function deleteFilmById(id) {
                                 <td>{film.name}</td>
                                 <td>{film.year}</td>
                                 <td>{film.categoryId}</td>
-                                <td><button className="btn btn-danger" onClick={() => deleteFilmById(film.id)}><i class="fa-solid fa-trash"></i></button></td>
+                                <td><button className="btn btn-danger" onClick={() => deleteFilmById(film.id)}><i class="fa-solid fa-trash"></i></button><Link to={"/filmsHUB/updateFilm/"+film.id}><button className="btn btn-warning ms-2" ><i class="fa-solid fa-pen"></i></button></Link></td>
                             </tr>
                         ))}
                             

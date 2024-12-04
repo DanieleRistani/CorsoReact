@@ -9,6 +9,7 @@ import Category from "./shared/categories/childsCategory/category";
 import Films from "./shared/film/films";
 import AddFilm from "./shared/film/childsFilm/addFilm";
 import FilmList from "./shared/film/childsFilm/filmList";
+import UpdateFilm from "./shared/film/childsFilm/updateFilm"
 function MainRoute() {
   return (
     <>
@@ -24,6 +25,7 @@ function MainRoute() {
 
             <Route path="/filmsHUB/addFilm" element={<AddFilm/>} />
             <Route path="/filmsHUB/filmList" element={<FilmList/>} />
+            <Route path="/filmsHUB/updateFilm/:id" element={<UpdateFilm/>} />
 
 
           </Route>
