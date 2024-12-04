@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\react\\reactapp\\corsoreact\\authjwtback-end\\mail\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:mail\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\react\\reactapp\\corsoreact\\authjwtback-end\\mail\\emailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:mail\\emailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\react\\reactapp\\corsoreact\\authjwtback-end\\controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -70,11 +78,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Auth\\JwtSettings.cs",
               "RelativeDocumentMoniker": "Auth\\JwtSettings.cs",
@@ -103,12 +111,38 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Mail\\EmailRequest.cs",
+              "RelativeDocumentMoniker": "Mail\\EmailRequest.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Mail\\EmailRequest.cs",
+              "RelativeToolTip": "Mail\\EmailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:43:37.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Mail\\EmailController.cs",
+              "RelativeDocumentMoniker": "Mail\\EmailController.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Mail\\EmailController.cs",
+              "RelativeToolTip": "Mail\\EmailController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:42:32.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FilmsController.cs",
               "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Controllers\\FilmsController.cs",
               "RelativeDocumentMoniker": "Controllers\\FilmsController.cs",
-              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Controllers\\FilmsController.cs*",
-              "RelativeToolTip": "Controllers\\FilmsController.cs*",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Controllers\\FilmsController.cs",
+              "RelativeToolTip": "Controllers\\FilmsController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAwwDIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T18:20:00.394Z",
@@ -116,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -124,12 +158,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAADxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-21T09:31:38.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T09:31:38.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
@@ -141,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FilmDto.cs",
               "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\FilmDto.cs",
               "RelativeDocumentMoniker": "Models\\AnothersEntity\\FilmDto.cs",
@@ -153,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "AdventureWorksLt2019usersInfoContext.cs",
               "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Models\\AdventureWorksLt2019usersInfoContext.cs",
               "RelativeDocumentMoniker": "Models\\AdventureWorksLt2019usersInfoContext.cs",
@@ -165,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "FilmContext.cs",
               "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\FilmContext.cs",
               "RelativeDocumentMoniker": "Models\\AnothersEntity\\FilmContext.cs",
@@ -177,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\Category.cs",
               "RelativeDocumentMoniker": "Models\\AnothersEntity\\Category.cs",
@@ -189,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
@@ -201,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "20241202181757_firstMigr.cs",
               "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Migrations\\Film\\20241202181757_firstMigr.cs",
               "RelativeDocumentMoniker": "Migrations\\Film\\20241202181757_firstMigr.cs",
@@ -213,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Film.cs",
               "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\Film.cs",
               "RelativeDocumentMoniker": "Models\\AnothersEntity\\Film.cs",
@@ -225,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -237,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Credentials.cs",
               "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Auth\\Credentials.cs",
               "RelativeDocumentMoniker": "Auth\\Credentials.cs",
@@ -249,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "LoginJwtController.cs",
               "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Auth\\LoginJwtController.cs",
               "RelativeDocumentMoniker": "Auth\\LoginJwtController.cs",
@@ -261,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "AuthJwt.http",
               "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\AuthJwt.http",
               "RelativeDocumentMoniker": "AuthJwt.http",

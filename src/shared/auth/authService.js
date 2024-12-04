@@ -12,6 +12,11 @@ function runRegister(user) {
     return fetch("https://localhost:7233/Users/Register", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(user) })
 }
 
+function sendEmailSuccessRegister(email) {
+    return fetch("https://localhost:7233/Email/send", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({toEmail: email,
+  subject: "Test Register email",
+  message: "Registrazione avvenuta con successo"}) })
+}
 function logout() {
     localStorage.removeItem("token");
     window.location.replace("/");
@@ -20,4 +25,4 @@ function logout() {
 function getAuthUser(email) {
     return fetch(`https://localhost:7233/Users/AuthUser/${email}`);
 }
-export {runLogin, runRegister, logout, getAuthUser};
+export {runLogin, runRegister, logout, getAuthUser, sendEmailSuccessRegister};

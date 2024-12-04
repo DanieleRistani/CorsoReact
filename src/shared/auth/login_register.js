@@ -1,5 +1,5 @@
 import React, { useRef} from "react";
-import AuthService, { runLogin, runRegister } from "./authService";
+import AuthService, { runLogin, runRegister,sendEmail } from "./authService";
 function LoginRegister() {
   const containerRef = useRef(null);
 
@@ -71,7 +71,10 @@ function LoginRegister() {
         }
       })
       .then((data) => {
-        console.log(data);
+        
+        
+        
+        sendEmailSuccessRegister(emailAddressRef.current.value);
         window.location.replace("/");
         
          
