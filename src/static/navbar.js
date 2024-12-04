@@ -21,9 +21,9 @@ function navbar() {
   return (
     <nav class="navbar navbar-expand-lg bg-body-dark">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">
-          Navbar
-        </a>
+        <Link class="navbar-brand" to="/">
+          Films CRUD
+        </Link>
         <button
           class="navbar-toggler"
           type="button"
@@ -45,6 +45,11 @@ function navbar() {
             <li class="nav-item">
               <Link className="nav-link" to="/categories">
                 Categories
+              </Link>
+            </li>
+            <li class="nav-item">
+              <Link className="nav-link" to="/filmsHUB">
+                FilmsHUB
               </Link>
             </li>
           

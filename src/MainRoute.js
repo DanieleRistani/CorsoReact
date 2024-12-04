@@ -5,7 +5,10 @@ import LoginRegister from "./shared/auth/login_register";
 import App from "./App";
 import UserProfile from "./shared/auth/userProfile";
 import Categories from "./shared/categories/categories";
-import Category from "./shared/categories/childCategory/category";
+import Category from "./shared/categories/childsCategory/category";
+import Films from "./shared/film/films";
+import AddFilm from "./shared/film/childsFilm/addFilm";
+import FilmList from "./shared/film/childsFilm/filmList";
 function MainRoute() {
   return (
     <>
@@ -17,9 +20,18 @@ function MainRoute() {
           <Route path="/userProfile" element={<UserProfile/>} />
           <Route path="/loginRegister" element={<LoginRegister/>} />
 
+          <Route path="/filmsHUB" element={<Films/>} >
+
+            <Route path="/filmsHUB/addFilm" element={<AddFilm/>} />
+            <Route path="/filmsHUB/filmList" element={<FilmList/>} />
+
+
+          </Route>
+
+
           <Route path="/categories" element={<Categories/>}>
             
-             <Route path="/categories/:id" element={<Category/>} />
+            <Route path="/categories/:id" element={<Category/>} />
           
           </Route>
         </Route>

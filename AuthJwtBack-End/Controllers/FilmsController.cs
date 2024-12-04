@@ -24,14 +24,14 @@ namespace AuthJwt.Controllers
         [HttpGet("Index")]
         public async Task<ActionResult<IEnumerable<Film>>> GetFilms()
         {
-            return await _context.Films.Include(f => f.Category).Include(f => f.Tags).ToListAsync();
+            return await _context.Films.ToListAsync();
         }
 
         // GET: api/Films/5
         [HttpGet("Details/{id}")]
         public async Task<ActionResult<Film>> GetFilm(int id)
         {
-            var film = await _context.Films.Include(f => f.Category).Include(f => f.Tags).FirstOrDefaultAsync(f => f.Id == id);
+            var film = await _context.Films.Include(f => f.Category).FirstOrDefaultAsync(f => f.Id == id);
 
             if (film == null)
             {
@@ -84,7 +84,7 @@ namespace AuthJwt.Controllers
         }
 
         // DELETE: api/Films/5
-        [HttpDelete("{id}")]
+        [HttpDelete("Delete/{id}")]
         public async Task<IActionResult> DeleteFilm(int id)
         {
             var film = await _context.Films.FindAsync(id);

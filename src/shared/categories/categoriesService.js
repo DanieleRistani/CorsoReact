@@ -11,4 +11,4 @@
 
 }
 
-export {getCategories, getCategoryById}
+export {getCategories, getCategoryById};

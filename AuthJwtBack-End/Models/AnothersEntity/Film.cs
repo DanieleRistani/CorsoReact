@@ -7,7 +7,7 @@
         public int Year { get; set; }
         public string Description { get; set; }
         public int CategoryId { get; set; }
-        public Category Category { get; set; }
-        public List<Tag> Tags { get; set; } = new List<Tag>(); // 1 film può avere più tag>
+        public Category? Category { get; set; } 
+         
     }
 }
