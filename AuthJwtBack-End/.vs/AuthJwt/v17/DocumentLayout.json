@@ -1,65 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\",
+  "WorkspaceRootPath": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\daniele\\wa\\react\\corsoreact\\authjwtback-end\\controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\daniele\\wa\\react\\corsoreact\\authjwtback-end\\models\\anothersentity\\filmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:models\\anothersentity\\filmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\daniele\\wa\\react\\corsoreact\\authjwtback-end\\models\\anothersentity\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:models\\anothersentity\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\daniele\\wa\\react\\corsoreact\\authjwtback-end\\models\\anothersentity\\filmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:models\\anothersentity\\filmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\daniele\\wa\\react\\corsoreact\\authjwtback-end\\models\\anothersentity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:models\\anothersentity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\daniele\\wa\\react\\corsoreact\\authjwtback-end\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\daniele\\wa\\react\\corsoreact\\authjwtback-end\\auth\\loginjwtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:auth\\loginjwtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\daniele\\wa\\react\\corsoreact\\authjwtback-end\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\daniele\\wa\\react\\corsoreact\\authjwtback-end\\models\\adventureworkslt2019usersinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:models\\adventureworkslt2019usersinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\daniele\\wa\\react\\corsoreact\\authjwtback-end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\react\\reactapp\\corsoreact\\authjwtback-end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\daniele\\wa\\react\\corsoreact\\authjwtback-end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\react\\reactapp\\corsoreact\\authjwtback-end\\controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\react\\reactapp\\corsoreact\\authjwtback-end\\models\\anothersentity\\filmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:models\\anothersentity\\filmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\react\\reactapp\\corsoreact\\authjwtback-end\\models\\anothersentity\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:models\\anothersentity\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\react\\reactapp\\corsoreact\\authjwtback-end\\models\\anothersentity\\filmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:models\\anothersentity\\filmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\react\\reactapp\\corsoreact\\authjwtback-end\\models\\anothersentity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:models\\anothersentity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\react\\reactapp\\corsoreact\\authjwtback-end\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\react\\reactapp\\corsoreact\\authjwtback-end\\auth\\loginjwtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:auth\\loginjwtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\react\\reactapp\\corsoreact\\authjwtback-end\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\react\\reactapp\\corsoreact\\authjwtback-end\\models\\adventureworkslt2019usersinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:models\\adventureworkslt2019usersinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\react\\reactapp\\corsoreact\\authjwtback-end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\daniele\\wa\\react\\corsoreact\\authjwtback-end\\auth\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\react\\reactapp\\corsoreact\\authjwtback-end\\auth\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:auth\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\daniele\\wa\\react\\corsoreact\\authjwtback-end\\authjwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\react\\reactapp\\corsoreact\\authjwtback-end\\authjwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:authjwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\daniele\\wa\\react\\corsoreact\\authjwtback-end\\auth\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\react\\reactapp\\corsoreact\\authjwtback-end\\auth\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:auth\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\daniele\\wa\\react\\corsoreact\\authjwtback-end\\migrations\\film\\20241202181757_firstmigr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|c:\\users\\desktop\\wa\\dotnetcorso\\react\\reactapp\\corsoreact\\authjwtback-end\\migrations\\film\\20241202181757_firstmigr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B54B0C2-54F5-4C12-81AA-F19A4E0ACCAA}|AuthJwt.csproj|solutionrelative:migrations\\film\\20241202181757_firstmigr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,33 +70,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "JwtSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Auth\\JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Auth\\JwtSettings.cs",
               "RelativeDocumentMoniker": "Auth\\JwtSettings.cs",
-              "ToolTip": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Auth\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Auth\\JwtSettings.cs",
               "RelativeToolTip": "Auth\\JwtSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T10:32:42.018Z",
               "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FilmDto.cs",
-              "DocumentMoniker": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\FilmDto.cs",
-              "RelativeDocumentMoniker": "Models\\AnothersEntity\\FilmDto.cs",
-              "ToolTip": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\FilmDto.cs",
-              "RelativeToolTip": "Models\\AnothersEntity\\FilmDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T15:05:12.416Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -116,23 +103,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwCsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T18:20:33.461Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FilmsController.cs",
-              "DocumentMoniker": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Controllers\\FilmsController.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Controllers\\FilmsController.cs",
               "RelativeDocumentMoniker": "Controllers\\FilmsController.cs",
-              "ToolTip": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Controllers\\FilmsController.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Controllers\\FilmsController.cs",
               "RelativeToolTip": "Controllers\\FilmsController.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAIwFUAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -141,11 +116,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAADxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T09:31:38.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwCsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:20:33.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilmDto.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\FilmDto.cs",
+              "RelativeDocumentMoniker": "Models\\AnothersEntity\\FilmDto.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\FilmDto.cs",
+              "RelativeToolTip": "Models\\AnothersEntity\\FilmDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:05:12.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AdventureWorksLt2019usersInfoContext.cs",
-              "DocumentMoniker": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Models\\AdventureWorksLt2019usersInfoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Models\\AdventureWorksLt2019usersInfoContext.cs",
               "RelativeDocumentMoniker": "Models\\AdventureWorksLt2019usersInfoContext.cs",
-              "ToolTip": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Models\\AdventureWorksLt2019usersInfoContext.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Models\\AdventureWorksLt2019usersInfoContext.cs",
               "RelativeToolTip": "Models\\AdventureWorksLt2019usersInfoContext.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAIwBMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -153,49 +165,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FilmContext.cs",
-              "DocumentMoniker": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\FilmContext.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\FilmContext.cs",
               "RelativeDocumentMoniker": "Models\\AnothersEntity\\FilmContext.cs",
-              "ToolTip": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\FilmContext.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\FilmContext.cs",
               "RelativeToolTip": "Models\\AnothersEntity\\FilmContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADgvwkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T18:01:45.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T18:01:45.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAADwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-21T09:31:38.963Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\Category.cs",
               "RelativeDocumentMoniker": "Models\\AnothersEntity\\Category.cs",
-              "ToolTip": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\Category.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\Category.cs",
               "RelativeToolTip": "Models\\AnothersEntity\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T17:55:42.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T17:55:42.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Controllers\\UsersController.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAiwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -205,9 +203,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "20241202181757_firstMigr.cs",
-              "DocumentMoniker": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Migrations\\Film\\20241202181757_firstMigr.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Migrations\\Film\\20241202181757_firstMigr.cs",
               "RelativeDocumentMoniker": "Migrations\\Film\\20241202181757_firstMigr.cs",
-              "ToolTip": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Migrations\\Film\\20241202181757_firstMigr.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Migrations\\Film\\20241202181757_firstMigr.cs",
               "RelativeToolTip": "Migrations\\Film\\20241202181757_firstMigr.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,24 +213,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Film.cs",
-              "DocumentMoniker": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\Film.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\Film.cs",
               "RelativeDocumentMoniker": "Models\\AnothersEntity\\Film.cs",
-              "ToolTip": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\Film.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Models\\AnothersEntity\\Film.cs",
               "RelativeToolTip": "Models\\AnothersEntity\\Film.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAwAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T17:55:29.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T17:55:29.436Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Program.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -242,9 +239,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Credentials.cs",
-              "DocumentMoniker": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Auth\\Credentials.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Auth\\Credentials.cs",
               "RelativeDocumentMoniker": "Auth\\Credentials.cs",
-              "ToolTip": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Auth\\Credentials.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Auth\\Credentials.cs",
               "RelativeToolTip": "Auth\\Credentials.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -252,11 +249,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "LoginJwtController.cs",
-              "DocumentMoniker": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Auth\\LoginJwtController.cs",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Auth\\LoginJwtController.cs",
               "RelativeDocumentMoniker": "Auth\\LoginJwtController.cs",
-              "ToolTip": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\Auth\\LoginJwtController.cs",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Auth\\LoginJwtController.cs",
               "RelativeToolTip": "Auth\\LoginJwtController.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAswCgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -266,9 +263,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "AuthJwt.http",
-              "DocumentMoniker": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\AuthJwt.http",
+              "DocumentMoniker": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\AuthJwt.http",
               "RelativeDocumentMoniker": "AuthJwt.http",
-              "ToolTip": "C:\\Users\\Daniele\\wa\\React\\CorsoReact\\AuthJwtBack-End\\AuthJwt.http",
+              "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\AuthJwt.http",
               "RelativeToolTip": "AuthJwt.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
