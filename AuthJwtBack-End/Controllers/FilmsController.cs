@@ -43,9 +43,24 @@ namespace AuthJwt.Controllers
 
         // PUT: api/Films/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPut("{id}")]
-        public async Task<IActionResult> PutFilm(int id, Film film)
+        [HttpPut("Update/{id}")]
+        public async Task<IActionResult> PutFilm(int id, FilmDto filmDto)
         {
+            var film = new Film()
+            {
+                Id = id,
+                Name = filmDto.Name,
+                Description = filmDto.Description,
+                Year = filmDto.Year,
+                CategoryId = filmDto.CategoryId,
+                Category = _context.Categories.Find(filmDto.CategoryId)
+
+            };
+
+
+
+
+
             if (id != film.Id)
             {
                 return BadRequest();

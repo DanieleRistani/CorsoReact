@@ -239,7 +239,7 @@
         }
       }
     },
-    "/Films/{id}": {
+    "/Films/Update/{id}": {
       "put": {
         "tags": [
           "Films"
@@ -259,17 +259,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Film"
+                "$ref": "#/components/schemas/FilmDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Film"
+                "$ref": "#/components/schemas/FilmDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Film"
+                "$ref": "#/components/schemas/FilmDto"
               }
             }
           }

@@ -11,6 +11,13 @@ function deleteFilm(id) {
     });
 }
 
+function updateFilm(id, film) {
+    return fetch("https://localhost:7233/Films/Update/" + id, {
+        method: "PUT",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(film)
+    });
+}
 function getCategoriesForSelect(){
     return  fetch("https://localhost:7233/Categories/DetailsWhithOutFilms");
 }
@@ -22,4 +29,4 @@ function addFilmPost(film) {
         body: JSON.stringify(film)
     })
 }
-export {getFilms, deleteFilm, getCategoriesForSelect,addFilmPost,getFilmById};
+export {getFilms, deleteFilm, getCategoriesForSelect,addFilmPost,getFilmById,updateFilm};
