@@ -117,7 +117,7 @@
               "RelativeDocumentMoniker": "Mail\\EmailRequest.cs",
               "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Mail\\EmailRequest.cs",
               "RelativeToolTip": "Mail\\EmailRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T20:43:37.574Z",
               "EditorCaption": ""
@@ -130,7 +130,7 @@
               "RelativeDocumentMoniker": "Mail\\EmailController.cs",
               "ToolTip": "C:\\Users\\Desktop\\WA\\DotNetCorso\\React\\ReactApp\\CorsoReact\\AuthJwtBack-End\\Mail\\EmailController.cs",
               "RelativeToolTip": "Mail\\EmailController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvygAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T20:42:32.572Z",
               "EditorCaption": ""
@@ -145,8 +145,7 @@
               "RelativeToolTip": "Controllers\\FilmsController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAwwDIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T18:20:00.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T18:20:00.394Z"
             },
             {
               "$type": "Document",

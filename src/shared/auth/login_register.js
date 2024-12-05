@@ -1,5 +1,5 @@
 import React, { useRef} from "react";
-import AuthService, { runLogin, runRegister,sendEmail } from "./authService";
+import AuthService, { runLogin, runRegister,sendEmailSuccessRegister } from "./authService";
 function LoginRegister() {
   const containerRef = useRef(null);
 
@@ -86,6 +86,7 @@ function LoginRegister() {
 
   return (
     <>
+    {/* <button onClick={()=>sendEmailSuccessRegister("ciao@gmail.com")}>Ciao</button> */}
       <div class="container-fluid">
         <div class="row ">
           <div class="col-12 ">
